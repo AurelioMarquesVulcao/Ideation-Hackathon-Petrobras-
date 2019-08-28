@@ -1,7 +1,7 @@
 # Ideation-Hackathon-Petrobras-
 <h3>Hackathon of ideas from petrobras, where we present the ideas and solutions for the logistics area.</h3>
 
-![](Pics/ideation.png)
+![](Pics/ideation.jpg)
 ![](header01.png)
 
 <h3>Hackathon of ideas from petrobras, where we present the ideas and solutions for the logistics area.
